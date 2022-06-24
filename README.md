@@ -1,3 +1,2 @@
 # SQL
-Hackerrank sql solutions
-Solutions in MYSQL
+Hackerrank sql solutions in MYSQL
